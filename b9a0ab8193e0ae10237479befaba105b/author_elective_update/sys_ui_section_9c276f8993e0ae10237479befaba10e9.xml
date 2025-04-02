@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="VMS Form" section_id="9c276f8993e0ae10237479befaba10e9" sys_domain="global" table="x_1675779_4dot_m_0_vending_machine_service" version="3" view="VMS_Form">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>0</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-03-26 13:10:44</sys_created_on>
+            <sys_id>5ffc27819324ae10237479befaba10dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VMS Form" display_value="VMS Form" name="x_1675779_4dot_m_0_vending_machine_service" sys_domain="global" view="14276f8993e0ae10237479befaba10e5">9c276f8993e0ae10237479befaba10e9</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-03-26 13:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-03-26 13:10:44</sys_created_on>
+            <sys_id>d3fc27819324ae10237479befaba10de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VMS Form" display_value="VMS Form" name="x_1675779_4dot_m_0_vending_machine_service" sys_domain="global" view="14276f8993e0ae10237479befaba10e5">9c276f8993e0ae10237479befaba10e9</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-03-26 13:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>content_type</element>
+            <position>2</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-03-26 13:10:44</sys_created_on>
+            <sys_id>5bfc27819324ae10237479befaba10de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VMS Form" display_value="VMS Form" name="x_1675779_4dot_m_0_vending_machine_service" sys_domain="global" view="14276f8993e0ae10237479befaba10e5">9c276f8993e0ae10237479befaba10e9</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-03-26 13:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type_of_ownership</element>
+            <position>3</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-03-26 13:10:44</sys_created_on>
+            <sys_id>dffc27819324ae10237479befaba10de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VMS Form" display_value="VMS Form" name="x_1675779_4dot_m_0_vending_machine_service" sys_domain="global" view="14276f8993e0ae10237479befaba10e5">9c276f8993e0ae10237479befaba10e9</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-03-26 13:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>current_owner</element>
+            <position>4</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-03-26 13:10:44</sys_created_on>
+            <sys_id>57fc27819324ae10237479befaba10df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VMS Form" display_value="VMS Form" name="x_1675779_4dot_m_0_vending_machine_service" sys_domain="global" view="14276f8993e0ae10237479befaba10e5">9c276f8993e0ae10237479befaba10e9</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-03-26 13:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location.state</element>
+            <position>5</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-03-26 13:10:44</sys_created_on>
+            <sys_id>dbfc27819324ae10237479befaba10df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VMS Form" display_value="VMS Form" name="x_1675779_4dot_m_0_vending_machine_service" sys_domain="global" view="14276f8993e0ae10237479befaba10e5">9c276f8993e0ae10237479befaba10e9</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-03-26 13:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>VMS Form</caption>
+            <header>false</header>
+            <name>x_1675779_4dot_m_0_vending_machine_service</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-03-26 12:45:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c276f8993e0ae10237479befaba10e9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>x_1675779_4dot_m_0_vending_machine_service</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="4Dot Machine Service" source="x_1675779_4dot_m_0">b9a0ab8193e0ae10237479befaba105b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="4Dot Machine Service">b9a0ab8193e0ae10237479befaba105b</sys_scope>
+            <sys_update_name>sys_ui_section_9c276f8993e0ae10237479befaba10e9</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-03-26 13:01:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="VMS Form" name="VMS_Form">14276f8993e0ae10237479befaba10e5</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="4Dot Machine Service">b9a0ab8193e0ae10237479befaba105b</application>
+        <file_path/>
+        <instance_id>0c361d56eb546e5ccbbffceacad0cdd7</instance_id>
+        <instance_name>dev300449</instance_name>
+        <name>sys_ui_section_9c276f8993e0ae10237479befaba10e9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="VMS Form" section_id="9c276f8993e0ae10237479befaba10e9" sys_domain="global" table="x_1675779_4dot_m_0_vending_machine_service" version="3" view="VMS_Form"><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>0</position><sys_created_by>aes.creator</sys_created_by><sys_created_on>2025-03-26 13:10:44</sys_created_on><sys_id>5ffc27819324ae10237479befaba10dd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="VMS Form" display_value="VMS Form" name="x_1675779_4dot_m_0_vending_machine_service" sys_domain="global" view="14276f8993e0ae10237479befaba10e5">9c276f8993e0ae10237479befaba10e9</sys_ui_section><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2025-03-26 13:10:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>1</position><sys_created_by>aes.creator</sys_created_by><sys_created_on>2025-03-26 13:10:44</sys_created_on><sys_id>d3fc27819324ae10237479befaba10de</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="VMS Form" display_value="VMS Form" name="x_1675779_4dot_m_0_vending_machine_service" sys_domain="global" view="14276f8993e0ae10237479befaba10e5">9c276f8993e0ae10237479befaba10e9</sys_ui_section><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2025-03-26 13:10:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>content_type</element><position>2</position><sys_created_by>aes.creator</sys_created_by><sys_created_on>2025-03-26 13:10:44</sys_created_on><sys_id>5bfc27819324ae10237479befaba10de</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="VMS Form" display_value="VMS Form" name="x_1675779_4dot_m_0_vending_machine_service" sys_domain="global" view="14276f8993e0ae10237479befaba10e5">9c276f8993e0ae10237479befaba10e9</sys_ui_section><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2025-03-26 13:10:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>type_of_ownership</element><position>3</position><sys_created_by>aes.creator</sys_created_by><sys_created_on>2025-03-26 13:10:44</sys_created_on><sys_id>dffc27819324ae10237479befaba10de</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="VMS Form" display_value="VMS Form" name="x_1675779_4dot_m_0_vending_machine_service" sys_domain="global" view="14276f8993e0ae10237479befaba10e5">9c276f8993e0ae10237479befaba10e9</sys_ui_section><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2025-03-26 13:10:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>current_owner</element><position>4</position><sys_created_by>aes.creator</sys_created_by><sys_created_on>2025-03-26 13:10:44</sys_created_on><sys_id>57fc27819324ae10237479befaba10df</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="VMS Form" display_value="VMS Form" name="x_1675779_4dot_m_0_vending_machine_service" sys_domain="global" view="14276f8993e0ae10237479befaba10e5">9c276f8993e0ae10237479befaba10e9</sys_ui_section><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2025-03-26 13:10:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>location.state</element><position>5</position><sys_created_by>aes.creator</sys_created_by><sys_created_on>2025-03-26 13:10:44</sys_created_on><sys_id>dbfc27819324ae10237479befaba10df</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="VMS Form" display_value="VMS Form" name="x_1675779_4dot_m_0_vending_machine_service" sys_domain="global" view="14276f8993e0ae10237479befaba10e5">9c276f8993e0ae10237479befaba10e9</sys_ui_section><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2025-03-26 13:10:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>VMS Form</caption><header>false</header><name>x_1675779_4dot_m_0_vending_machine_service</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2025-03-26 12:45:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9c276f8993e0ae10237479befaba10e9</sys_id><sys_mod_count>2</sys_mod_count><sys_name>x_1675779_4dot_m_0_vending_machine_service</sys_name><sys_overrides/><sys_package display_value="4Dot Machine Service" source="x_1675779_4dot_m_0">b9a0ab8193e0ae10237479befaba105b</sys_package><sys_policy/><sys_scope display_value="4Dot Machine Service">b9a0ab8193e0ae10237479befaba105b</sys_scope><sys_update_name>sys_ui_section_9c276f8993e0ae10237479befaba10e9</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2025-03-26 13:01:57</sys_updated_on><sys_user/><title>false</title><view display_value="VMS Form" name="VMS_Form">14276f8993e0ae10237479befaba10e5</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1683005192</payload_hash>
+        <record_name>Vending Machine Service</record_name>
+        <reverted_from/>
+        <source>02a0ab8193e0ae10237479befaba10f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2025-03-26 13:10:44</sys_created_on>
+        <sys_id>5ffc27819324ae10237479befaba10e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195d2939d160000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2025-03-26 13:10:44</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>17fc2781ba24ae10a690bf2bccee38e1</update_guid>
+        <update_guid_history>17fc2781ba24ae10a690bf2bccee38e1:1683005192,72fa2fcd70e0ae1067dae958ececc110:1047931365,b2fa2fcd90e0ae10c6a356889006690b:-1411963793,154763c981e0ae10625572dbe9567966:-2062764352,514763c9e4e0ae103a720f2b61659164:-1760009945,9827af89b5e0ae1082124e809cda02e4:372674804</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2025-03-26 14:12:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>688fdb9bc87f4e308e252bb054a78900</sys_id>
+        <sys_metadata>9c276f8993e0ae10237479befaba10e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VMS Form</sys_name>
+        <sys_package display_value="4Dot Machine Service" source="x_1675779_4dot_m_0">b9a0ab8193e0ae10237479befaba105b</sys_package>
+        <sys_parent display_value="4dot M 0 Vending Machine Service">d3412bc193e0ae10237479befaba10d3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machine Service">b9a0ab8193e0ae10237479befaba105b</sys_scope>
+        <sys_scope_delete display_value="">7071077014b74220bf1ad6c54a030900</sys_scope_delete>
+        <sys_update_name>sys_ui_section_9c276f8993e0ae10237479befaba10e9</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_9c276f8993e0ae10237479befaba10e9">5ffc27819324ae10237479befaba10e1</sys_update_version>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2025-03-26 14:12:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
