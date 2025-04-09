@@ -15,43 +15,5 @@
             <sys_updated_by>aes.creator</sys_updated_by>
             <sys_updated_on>2025-03-26 12:44:56</sys_updated_on>
         </sys_choice_set>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>content_type</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>food</label>
-            <language>en</language>
-            <name>x_1675779_4dot_m_0_vending_machine_service</name>
-            <sequence>0</sequence>
-            <synonyms/>
-            <sys_created_by>aes.creator</sys_created_by>
-            <sys_created_on>2025-03-26 12:44:56</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>aes.creator</sys_updated_by>
-            <sys_updated_on>2025-03-26 12:44:56</sys_updated_on>
-            <value>food</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>content_type</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>drink</label>
-            <language>en</language>
-            <name>x_1675779_4dot_m_0_vending_machine_service</name>
-            <sequence>1</sequence>
-            <synonyms/>
-            <sys_created_by>aes.creator</sys_created_by>
-            <sys_created_on>2025-03-26 12:44:56</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>aes.creator</sys_updated_by>
-            <sys_updated_on>2025-03-26 12:44:56</sys_updated_on>
-            <value>drink</value>
-        </sys_choice>
     </sys_choice>
 </record_update>

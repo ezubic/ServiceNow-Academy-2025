@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="current_owner" table="x_1675779_4dot_m_0_vending_machine_service">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>current owner</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>current_owner</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Reference">reference</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <name>x_1675779_4dot_m_0_vending_machine_service</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="core_company">core_company</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2025-03-26 12:44:51</sys_created_on>
+        <sys_id>cc17ab8993e0ae10237479befaba10b1</sys_id>
+        <sys_name>current owner</sys_name>
+        <sys_package display_value="4Dot Machine Service" source="x_1675779_4dot_m_0">b9a0ab8193e0ae10237479befaba105b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machine Service">b9a0ab8193e0ae10237479befaba105b</sys_scope>
+        <sys_update_name>sys_dictionary_x_1675779_4dot_m_0_vending_machine_service_current_owner</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2025-03-26 12:44:55</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="4Dot Machine Service">b9a0ab8193e0ae10237479befaba105b</application>
+        <file_path/>
+        <instance_id>0c361d56eb546e5ccbbffceacad0cdd7</instance_id>
+        <instance_name>dev300449</instance_name>
+        <name>sys_dictionary_x_1675779_4dot_m_0_vending_machine_service_current_owner</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="current_owner" table="x_1675779_4dot_m_0_vending_machine_service"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>current owner</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>current_owner</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>x_1675779_4dot_m_0_vending_machine_service</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="core_company">core_company</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2025-03-26 12:44:51</sys_created_on><sys_id>cc17ab8993e0ae10237479befaba10b1</sys_id><sys_name>current owner</sys_name><sys_package display_value="4Dot Machine Service" source="x_1675779_4dot_m_0">b9a0ab8193e0ae10237479befaba105b</sys_package><sys_policy/><sys_scope display_value="4Dot Machine Service">b9a0ab8193e0ae10237479befaba105b</sys_scope><sys_update_name>sys_dictionary_x_1675779_4dot_m_0_vending_machine_service_current_owner</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2025-03-26 12:44:55</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>341298622</payload_hash>
+        <record_name>Vending Machine Service.current owner</record_name>
+        <reverted_from/>
+        <source>02a0ab8193e0ae10237479befaba10f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2025-03-26 12:44:55</sys_created_on>
+        <sys_id>dd172f8993e0ae10237479befaba1066</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195d27bfc5c0000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2025-03-26 12:44:55</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>95172f893ee0ae10228c70057d5db866</update_guid>
+        <update_guid_history>95172f893ee0ae10228c70057d5db866:341298622,a417eb8952e0ae10d7b4300d7a4eb855:1436792635</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2025-04-08 13:39:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>224aad13e2634d389b483d4c5e6e1f51</sys_id>
+        <sys_metadata>cc17ab8993e0ae10237479befaba10b1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>current owner</sys_name>
+        <sys_package display_value="4Dot Machine Service" source="x_1675779_4dot_m_0">b9a0ab8193e0ae10237479befaba105b</sys_package>
+        <sys_parent display_value="">d3412bc193e0ae10237479befaba10d3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machine Service">b9a0ab8193e0ae10237479befaba105b</sys_scope>
+        <sys_scope_delete display_value="">7071077014b74220bf1ad6c54a030900</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1675779_4dot_m_0_vending_machine_service_current_owner</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1675779_4dot_m_0_vending_machine_service_current_owner">dd172f8993e0ae10237479befaba1066</sys_update_version>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2025-04-08 13:39:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

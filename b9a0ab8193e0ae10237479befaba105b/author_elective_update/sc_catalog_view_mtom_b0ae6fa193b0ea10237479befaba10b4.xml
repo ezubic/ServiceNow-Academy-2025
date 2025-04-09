@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="DELETE">
+        <default>true</default>
+        <sc_catalog display_value="4dot Services">cbfd63e193b0ea10237479befaba10d6</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 12:50:35</sys_created_on>
+        <sys_id>b0ae6fa193b0ea10237479befaba10b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4dot Services.catalog_4dot_services</sys_name>
+        <sys_package display_value="4Dot Machine Service" source="x_1675779_4dot_m_0">b9a0ab8193e0ae10237479befaba105b</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_4dot_services">74ae6fa193b0ea10237479befaba10b2</sys_portal_page>
+        <sys_scope display_value="4Dot Machine Service">b9a0ab8193e0ae10237479befaba105b</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_b0ae6fa193b0ea10237479befaba10b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 12:50:35</sys_updated_on>
+    </sc_catalog_view_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="4Dot Machine Service">b9a0ab8193e0ae10237479befaba105b</application>
+        <file_path/>
+        <instance_id>0c361d56eb546e5ccbbffceacad0cdd7</instance_id>
+        <instance_name>dev300449</instance_name>
+        <name>sc_catalog_view_mtom_b0ae6fa193b0ea10237479befaba10b4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom"><sc_catalog_view_mtom action="INSERT_OR_UPDATE"><default>true</default><sc_catalog display_value="4dot Services">cbfd63e193b0ea10237479befaba10d6</sc_catalog><sys_class_name>sc_catalog_view_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-09 12:50:35</sys_created_on><sys_id>b0ae6fa193b0ea10237479befaba10b4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>4dot Services.catalog_4dot_services</sys_name><sys_package display_value="4Dot Machine Service" source="x_1675779_4dot_m_0">b9a0ab8193e0ae10237479befaba105b</sys_package><sys_policy/><sys_portal_page display_value="catalog_4dot_services">74ae6fa193b0ea10237479befaba10b2</sys_portal_page><sys_scope display_value="4Dot Machine Service">b9a0ab8193e0ae10237479befaba105b</sys_scope><sys_update_name>sc_catalog_view_mtom_b0ae6fa193b0ea10237479befaba10b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-09 12:50:35</sys_updated_on></sc_catalog_view_mtom></record_update>]]></payload>
+        <payload_hash>-2042340001</payload_hash>
+        <record_name>4dot Services.catalog_4dot_services</record_name>
+        <reverted_from/>
+        <source>b56a146b93e02210237479befaba1060</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 12:50:35</sys_created_on>
+        <sys_id>34aeafe193b0ea10237479befaba10ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1961a9a35590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 12:50:35</sys_updated_on>
+        <type>Catalog Portal Page</type>
+        <update_guid>38aeafe133b0ea103c72715ff4645be9</update_guid>
+        <update_guid_history>38aeafe133b0ea103c72715ff4645be9:-2042340001</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="4dot Services.catalog_4dot_services">dcfe2b2593b0ea10237479befaba10c8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 12:51:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog_view_mtom">sc_catalog_view_mtom</sys_db_object>
+        <sys_id>146b5f3736f140f18abf1ee380940ed1</sys_id>
+        <sys_metadata>b0ae6fa193b0ea10237479befaba10b4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4dot Services.catalog_4dot_services</sys_name>
+        <sys_package display_value="4Dot Machine Service" source="x_1675779_4dot_m_0">b9a0ab8193e0ae10237479befaba105b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machine Service">b9a0ab8193e0ae10237479befaba105b</sys_scope>
+        <sys_scope_delete display_value="">7071077014b74220bf1ad6c54a030900</sys_scope_delete>
+        <sys_update_name>sc_catalog_view_mtom_b0ae6fa193b0ea10237479befaba10b4</sys_update_name>
+        <sys_update_version display_value="sc_catalog_view_mtom_b0ae6fa193b0ea10237479befaba10b4">34aeafe193b0ea10237479befaba10ea</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 12:51:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
