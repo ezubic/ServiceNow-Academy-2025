@@ -29,6 +29,7 @@
                 <element inactive_on_update="false" label="leased" sequence="1" value="leased"/>
             </choice>
         </element>
+        <element label="machine" max_length="32" name="machine" reference="u_cmdb_ci_vending_machine" type="reference"/>
         <element label="date of installation" max_length="40" name="date_of_installation" type="glide_date"/>
         <index name="index">
             <element name="current_owner"/>
@@ -38,6 +39,9 @@
         </index>
         <index name="index3">
             <element name="location"/>
+        </index>
+        <index name="index4">
+            <element name="machine"/>
         </index>
     </element>
 </database>
